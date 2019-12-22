@@ -1,4 +1,11 @@
-hand({
-  "id":1,
-  "src":"../../static/images/banner1.png"
-})
+{
+    "code": 200,
+    "message": "成功",
+    "data": [
+        "/",
+        "/menu1",
+        "/menu2",
+        "/menu3/menu3-1",
+        "/menu4"
+    ]
+}
