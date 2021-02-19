@@ -7,7 +7,7 @@
             "name":"",
             "title":"首页",
             "icon":"",
-            "affix":true,
+            "affix":true
         },{
             "name":"",
             "title":"嵌套路由",
@@ -17,7 +17,7 @@
                     "path":"/",
                     "name":"",
                     "title":"二级页面",
-                    "icon":"",
+                    "icon":""
                 },{
                     "name":"",
                     "title":"二级分组",
@@ -27,7 +27,7 @@
                             "path":"/",
                             "name":"",
                             "title":"三级页面",
-                            "icon":"",
+                            "icon":""
                         }
                     ]
                 }
