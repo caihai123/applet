@@ -3,12 +3,6 @@
   "message": "成功",
   "data": [
     {
-      "path": "/index",
-      "title": "首页",
-      "icon": "el-icon-user-solid",
-      "affix": true
-    },
-    {
       "path": "/about",
       "title": "数据看板",
       "icon": "el-icon-s-marketing"
@@ -28,6 +22,12 @@
           "icon": "el-icon-s-marketing"
         }
       ]
+    },
+    {
+      "path": "/index",
+      "title": "首页",
+      "icon": "el-icon-user-solid",
+      "affix": true
     }
   ]
 }
