@@ -1,17 +1,33 @@
 {
-    "code": 200,
-    "message": "成功",
-    "data": [
+  "code": 200,
+  "message": "成功",
+  "data": [
+    {
+      "path": "/index",
+      "title": "首页",
+      "icon": "",
+      "affix": true
+    },
+    {
+      "path": "/About",
+      "title": "数据看板",
+      "icon": ""
+    },
+    {
+      "title": "嵌套路由",
+      "icon": "",
+      "children": [
         {
-            "path":"/index",
-            "title":"首页",
-            "icon":"",
-            "affix":true
+          "path": "/menu1",
+          "title": "回到顶部",
+          "icon": "el-icon-s-marketing"
         },
         {
-            "path":"/About",
-            "title":"数据看板",
-            "icon":""
+          "path": "/menu2",
+          "title": "换肤预览",
+          "icon": "el-icon-s-marketing"
         }
-    ]
+      ]
+    }
+  ]
 }
