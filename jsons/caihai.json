@@ -3,15 +3,13 @@
     "message": "成功",
     "data": [
         {
-            "path":"/Home",
-            "name":"Home",
+            "path":"/index",
             "title":"首页",
             "icon":"",
             "affix":true
         },
         {
             "path":"/About",
-            "name":"About",
             "title":"数据看板",
             "icon":""
         }
