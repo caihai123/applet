@@ -5,50 +5,15 @@
         {
             "path":"/Home",
             "name":"Home",
-            "meta":{
-                "title":"首页",
-                "icon":"",
-                "affix":true
-            }
+            "title":"首页",
+            "icon":"",
+            "affix":true
         },
         {
             "path":"/About",
             "name":"About",
-            "meta":{
-                "title":"数据看板",
-                "icon":""
-            }
-        },
-        {
-            "meta":{
-                "title":"嵌套路由",
-                "icon":""
-            },
-            "children":[
-                {
-                    "path":"/",
-                    "name":"",
-                    "meta":{
-                        "title":"二级页面",
-                        "icon":""
-                    }
-                },{
-                    "meta":{
-                        "title":"二级分组",
-                        "icon":""
-                    },
-                    "children":[
-                        {
-                            "path":"/",
-                            "name":"",
-                            "meta":{
-                                "title":"三级页面",
-                                "icon":""
-                            }
-                        }
-                    ]
-                }
-            ]
+            "title":"数据看板",
+            "icon":""
         }
     ]
 }
