@@ -3,31 +3,48 @@
     "message": "成功",
     "data": [
         {
-            "path":"/",
-            "name":"",
-            "title":"首页",
-            "icon":"",
-            "affix":true
-        },{
-            "name":"",
-            "title":"嵌套路由",
-            "icon":"",
+            "path":"/Home",
+            "name":"Home",
+            "meta":{
+                "title":"首页",
+                "icon":"",
+                "affix":true
+            }
+        },
+        {
+            "path":"/About",
+            "name":"About",
+            "meta":{
+                "title":"数据看板",
+                "icon":""
+            }
+        },
+        {
+            "meta":{
+                "title":"嵌套路由",
+                "icon":""
+            },
             "children":[
                 {
                     "path":"/",
                     "name":"",
-                    "title":"二级页面",
-                    "icon":""
+                    "meta":{
+                        "title":"二级页面",
+                        "icon":""
+                    }
                 },{
-                    "name":"",
-                    "title":"二级分组",
-                    "icon":"",
+                    "meta":{
+                        "title":"二级分组",
+                        "icon":""
+                    },
                     "children":[
                         {
                             "path":"/",
                             "name":"",
-                            "title":"三级页面",
-                            "icon":""
+                            "meta":{
+                                "title":"三级页面",
+                                "icon":""
+                            }
                         }
                     ]
                 }
