@@ -5,22 +5,22 @@
     {
       "path": "/index",
       "title": "首页",
-      "icon": "",
+      "icon": "el-icon-user-solid",
       "affix": true
     },
     {
       "path": "/about",
       "title": "数据看板",
-      "icon": ""
+      "icon": "el-icon-s-marketing"
     },
     {
       "title": "嵌套路由",
-      "icon": "",
+      "icon": "el-icon-finished",
       "children": [
         {
           "path": "/menu1",
           "title": "回到顶部",
-          "icon": "el-icon-s-marketing"
+          "icon": "el-icon-caret-top"
         },
         {
           "path": "/menu2",
