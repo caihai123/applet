@@ -12,6 +12,7 @@
       "icon": "el-icon-finished",
       "children": [
         {
+          "hidden":true,
           "path": "/menu1",
           "title": "回到顶部",
           "icon": "el-icon-caret-top"
