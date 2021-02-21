@@ -20,6 +20,11 @@
           "path": "/menu2",
           "title": "换肤预览",
           "icon": "el-icon-s-marketing"
+        },{
+          "path": "/menu3",
+          "title": "无权限",
+          "icon": "el-icon-s-marketing",
+          "permission":false
         }
       ]
     },
