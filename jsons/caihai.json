@@ -23,7 +23,13 @@
           "title": "用户管理"
         }
       ]
-    },{
+    },
+    {
+      "path": "/icon",
+      "title": "图标",
+      "icon": "el-icon-s-opportunity"
+    },
+    {
       "path": "/about",
       "title": "数据看板",
       "icon": "el-icon-s-marketing"
