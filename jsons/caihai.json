@@ -30,8 +30,8 @@
       "icon": "el-icon-s-opportunity"
     },
     {
-      "path": "/about",
-      "title": "数据看板",
+      "path": "/form",
+      "title": "form表单",
       "icon": "el-icon-s-marketing"
     },
     {
